@@ -14,4 +14,4 @@ Steps for exposing data via OData to Cloud Foundry :
 -	Create APP Using no authentication or Basic Authentication( Python) 
 
 
-More details regarding the process can be found on the below Blog post :
+More details regarding the process can be found in the below Blog post :
