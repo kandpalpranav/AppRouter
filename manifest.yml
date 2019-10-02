@@ -1,0 +1,11 @@
+---
+applications:
+
+- name: approuter_2
+  host: approuter_2-s0018786787
+  buildpack: nodejs_buildpack
+  memory: 128M
+  path: ./approuter_2.zip  
+  services:
+    - connectivity-demo-lite
+    - destination-demo-lite
