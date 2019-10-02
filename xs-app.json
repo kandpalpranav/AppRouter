@@ -1,0 +1,10 @@
+{
+"authenticationMethod": "none",
+"routes": [
+	{	
+		"source": "/",
+		"target": "/sap/opu/odata/sap/Z_TRANSPORTS_CDS/Z_TRANSPORTS",
+		"destination": "B4"
+	}
+]
+}
